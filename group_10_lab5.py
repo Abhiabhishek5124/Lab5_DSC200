@@ -16,7 +16,7 @@ with (open("Table9.pdf", "rb") as pdf_ptr):
     page_content = "".join(page_content)
     page_content = page_content.replace("TABLE 9", "")
     page_content = page_content.replace("CHILD PROTECTION", "")
-    page_content = page_content.replace("CHILD PROTECTION >>", "")
+    page_content = page_content.replace(">>", "")
     page_content = page_content.replace("–", "0")
     inputList = page_content.split("\n")
     inputList2 = []
@@ -29,7 +29,6 @@ with (open("Table9.pdf", "rb") as pdf_ptr):
         if len(inputList[i]) >= 15 and sum(isinstance(x, int) for x in inputList[i]) == 14:
             inputList2.append(inputList[i])
 
-    print(inputList2)
     holderList = []
     outputList = []
     for data in inputList2:
@@ -49,15 +48,15 @@ with (open("Table9.pdf", "rb") as pdf_ptr):
             break
     pdf_ptr.close()
 
-    # Open a CSV file named "group10Lab4.csv" for writing
+    # Open a CSV file named "group10Lab5.csv" for writing
     fptr = open("group10Lab5.csv", "w", newline="")
     writer = csv.writer(fptr)
     # Write the data from outputList to the CSV file.
     writer.writerows(outputList)
     fptr.close()
 
-    # Open the CSV file "group10Lab4.csv" for reading.
-    fptr2 = open("group10Lab4.csv", "r")
+    # Open the CSV file "group10Lab5.csv" for reading.
+    fptr2 = open("group10Lab5.csv", "r")
     # Print the number of rows in the CSV file (counting the number of lines).
     print(sum(1 for row in fptr2))
     # Close the CSV file.

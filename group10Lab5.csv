@@ -447,7 +447,7 @@ Honduras,Child Marriage <18,34
 Honduras,Birth Registration Total,94
 Honduras,Wife Beating Justification Male,10
 Honduras,Wife Beating Justification Female,12
-Hungary >>,Birth Registration Total,100
+Hungary,Birth Registration Total,100
 Iceland,Birth Registration Total,100
 India,Child Labour Total,12
 India,Child Labour Male,12
@@ -643,16 +643,16 @@ Mexico,Child marriage <15,5
 Mexico,Child Marriage <18,23
 Mexico,Birth Registration Total,93
 Monaco,Birth Registration Total,100
-Mongolia >>,Child Labour Total,10
-Mongolia >>,Child Labour Male,10
-Mongolia >>,Child Labour Female,11
-Mongolia >>,Child Marriage <18,5
-Mongolia >>,Birth Registration Total,99
-Mongolia >>,Wife Beating Justification Male,9
-Mongolia >>,Wife Beating Justification Female,10
-Mongolia >>,Violent Discipline Total,46
-Mongolia >>,Violent Discipline Male,48
-Mongolia >>,Violent Discipline Female,43
+Mongolia,Child Labour Total,10
+Mongolia,Child Labour Male,10
+Mongolia,Child Labour Female,11
+Mongolia,Child Marriage <18,5
+Mongolia,Birth Registration Total,99
+Mongolia,Wife Beating Justification Male,9
+Mongolia,Wife Beating Justification Female,10
+Mongolia,Violent Discipline Total,46
+Mongolia,Violent Discipline Male,48
+Mongolia,Violent Discipline Female,43
 Montenegro,Child Labour Total,10
 Montenegro,Child Labour Male,12
 Montenegro,Child Labour Female,8
@@ -801,17 +801,17 @@ Senegal,FGM Prevalence Girls,18
 Senegal,FGM Support,17
 Senegal,Wife Beating Justification Male,25
 Senegal,Wife Beating Justification Female,60
-Serbia >>,Child Labour Total,4
-Serbia >>,Child Labour Male,5
-Serbia >>,Child Labour Female,4
-Serbia >>,Child marriage <15,1
-Serbia >>,Child Marriage <18,5
-Serbia >>,Birth Registration Total,99
-Serbia >>,Wife Beating Justification Male,7
-Serbia >>,Wife Beating Justification Female,3
-Serbia >>,Violent Discipline Total,67
-Serbia >>,Violent Discipline Male,70
-Serbia >>,Violent Discipline Female,64
+Serbia,Child Labour Total,4
+Serbia,Child Labour Male,5
+Serbia,Child Labour Female,4
+Serbia,Child marriage <15,1
+Serbia,Child Marriage <18,5
+Serbia,Birth Registration Total,99
+Serbia,Wife Beating Justification Male,7
+Serbia,Wife Beating Justification Female,3
+Serbia,Violent Discipline Total,67
+Serbia,Violent Discipline Male,70
+Serbia,Violent Discipline Female,64
 Sierra Leone,Child Labour Total,26
 Sierra Leone,Child Labour Male,27
 Sierra Leone,Child Labour Female,25
@@ -1025,11 +1025,11 @@ Uruguay,Birth Registration Total,100
 "Uzbekistan x,y",Birth Registration Total,100
 "Uzbekistan x,y",Wife Beating Justification Male,59
 "Uzbekistan x,y",Wife Beating Justification Female,70
-Vanuatu >>,Child marriage <15,9
-Vanuatu >>,Child Marriage <18,27
-Vanuatu >>,Birth Registration Total,43
-Vanuatu >>,Wife Beating Justification Female,60
-Vanuatu >>,Violent Discipline Total,78
+Vanuatu,Child marriage <15,9
+Vanuatu,Child Marriage <18,27
+Vanuatu,Birth Registration Total,43
+Vanuatu,Wife Beating Justification Female,60
+Vanuatu,Violent Discipline Total,78
 Republic of),Child Labour Total,8
 Republic of),Child Labour Male,9
 Republic of),Child Labour Female,6
