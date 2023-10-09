@@ -108,13 +108,13 @@ Bhutan,Child marriage <15,6
 Bhutan,Child Marriage <18,26
 Bhutan,Birth Registration Total,100
 Bhutan,Wife Beating Justification Female,68
-State of),Child Labour Total,26
-State of),Child Labour Male,28
-State of),Child Labour Female,24
-State of),Child marriage <15,3
-State of),Child Marriage <18,22
-State of),Birth Registration Total,76
-State of),Wife Beating Justification Female,16
+Bolivia (Plurinational State of),Child Labour Total,26
+Bolivia (Plurinational State of),Child Labour Male,28
+Bolivia (Plurinational State of),Child Labour Female,24
+Bolivia (Plurinational State of),Child marriage <15,3
+Bolivia (Plurinational State of),Child Marriage <18,22
+Bolivia (Plurinational State of),Birth Registration Total,76
+Bolivia (Plurinational State of),Wife Beating Justification Female,16
 Bosnia and Herzegovina,Child Labour Total,5
 Bosnia and Herzegovina,Child Labour Male,7
 Bosnia and Herzegovina,Child Labour Female,4
@@ -158,14 +158,14 @@ Burundi,Child Marriage <18,20
 Burundi,Birth Registration Total,75
 Burundi,Wife Beating Justification Male,44
 Burundi,Wife Beating Justification Female,73
-"Cabo Verde x,y x,y x,y",Child Labour Total,3
-"Cabo Verde x,y x,y x,y",Child Labour Male,4
-"Cabo Verde x,y x,y x,y",Child Labour Female,3
-"Cabo Verde x,y x,y x,y",Child marriage <15,3
-"Cabo Verde x,y x,y x,y",Child Marriage <18,18
-"Cabo Verde x,y x,y x,y",Birth Registration Total,91
-"Cabo Verde x,y x,y x,y",Wife Beating Justification Male,16
-"Cabo Verde x,y x,y x,y",Wife Beating Justification Female,17
+Cabo Verde,Child Labour Total,3
+Cabo Verde,Child Labour Male,4
+Cabo Verde,Child Labour Female,3
+Cabo Verde,Child marriage <15,3
+Cabo Verde,Child Marriage <18,18
+Cabo Verde,Birth Registration Total,91
+Cabo Verde,Wife Beating Justification Male,16
+Cabo Verde,Wife Beating Justification Female,17
 Cambodia,Child Labour Total,36
 Cambodia,Child Labour Male,36
 Cambodia,Child Labour Female,36
@@ -259,7 +259,7 @@ Cuba,Child Marriage <18,40
 Cuba,Birth Registration Total,100
 Cyprus,Birth Registration Total,100
 Czech Republic,Birth Registration Total,100
-Republic of Korea,Birth Registration Total,100
+Democratic People’s Republic of Korea,Birth Registration Total,100
 Democratic Republic of the Congo,Child Labour Total,15
 Democratic Republic of the Congo,Child Labour Male,13
 Democratic Republic of the Congo,Child Labour Female,17
@@ -542,17 +542,17 @@ Kyrgyzstan,Wife Beating Justification Female,38
 Kyrgyzstan,Violent Discipline Total,54
 Kyrgyzstan,Violent Discipline Male,58
 Kyrgyzstan,Violent Discipline Female,49
-Republic,Child Labour Total,10
-Republic,Child Labour Male,9
-Republic,Child Labour Female,11
-Republic,Child marriage <15,9
-Republic,Child Marriage <18,35
-Republic,Birth Registration Total,75
-Republic,Wife Beating Justification Male,49
-Republic,Wife Beating Justification Female,58
-Republic,Violent Discipline Total,76
-Republic,Violent Discipline Male,77
-Republic,Violent Discipline Female,74
+Lao People’s Democratic Republic,Child Labour Total,10
+Lao People’s Democratic Republic,Child Labour Male,9
+Lao People’s Democratic Republic,Child Labour Female,11
+Lao People’s Democratic Republic,Child marriage <15,9
+Lao People’s Democratic Republic,Child Marriage <18,35
+Lao People’s Democratic Republic,Birth Registration Total,75
+Lao People’s Democratic Republic,Wife Beating Justification Male,49
+Lao People’s Democratic Republic,Wife Beating Justification Female,58
+Lao People’s Democratic Republic,Violent Discipline Total,76
+Lao People’s Democratic Republic,Violent Discipline Male,77
+Lao People’s Democratic Republic,Violent Discipline Female,74
 Latvia,Birth Registration Total,100
 Lebanon,Child Labour Total,2
 Lebanon,Child Labour Male,3
@@ -754,10 +754,10 @@ Philippines,Child Marriage <18,14
 Philippines,Birth Registration Total,90
 Philippines,Wife Beating Justification Female,14
 Poland,Birth Registration Total,100
-"Portugal x,y x,y x,y",Child Labour Total,3
-"Portugal x,y x,y x,y",Child Labour Male,4
-"Portugal x,y x,y x,y",Child Labour Female,3
-"Portugal x,y x,y x,y",Birth Registration Total,100
+Portugal,Child Labour Total,3
+Portugal,Child Labour Male,4
+Portugal,Child Labour Female,3
+Portugal,Birth Registration Total,100
 Republic of Moldova,Child Labour Total,16
 Republic of Moldova,Child Labour Male,20
 Republic of Moldova,Child Labour Female,12
@@ -918,16 +918,16 @@ Thailand,Child Labour Female,8
 Thailand,Child marriage <15,3
 Thailand,Child Marriage <18,20
 Thailand,Birth Registration Total,100
-Republic of Macedonia,Child Labour Total,13
-Republic of Macedonia,Child Labour Male,12
-Republic of Macedonia,Child Labour Female,13
-Republic of Macedonia,Child marriage <15,1
-Republic of Macedonia,Child Marriage <18,7
-Republic of Macedonia,Birth Registration Total,100
-Republic of Macedonia,Wife Beating Justification Female,15
-Republic of Macedonia,Violent Discipline Total,69
-Republic of Macedonia,Violent Discipline Male,71
-Republic of Macedonia,Violent Discipline Female,67
+The former Yugoslav Republic of Macedonia,Child Labour Total,13
+The former Yugoslav Republic of Macedonia,Child Labour Male,12
+The former Yugoslav Republic of Macedonia,Child Labour Female,13
+The former Yugoslav Republic of Macedonia,Child marriage <15,1
+The former Yugoslav Republic of Macedonia,Child Marriage <18,7
+The former Yugoslav Republic of Macedonia,Birth Registration Total,100
+The former Yugoslav Republic of Macedonia,Wife Beating Justification Female,15
+The former Yugoslav Republic of Macedonia,Violent Discipline Total,69
+The former Yugoslav Republic of Macedonia,Violent Discipline Male,71
+The former Yugoslav Republic of Macedonia,Violent Discipline Female,67
 Timor-Leste,Child Labour Total,4
 Timor-Leste,Child Labour Male,4
 Timor-Leste,Child Labour Female,4
@@ -1021,19 +1021,19 @@ Uruguay,Child Labour Total,8
 Uruguay,Child Labour Male,8
 Uruguay,Child Labour Female,8
 Uruguay,Birth Registration Total,100
-"Uzbekistan x,y",Child Marriage <18,7
-"Uzbekistan x,y",Birth Registration Total,100
-"Uzbekistan x,y",Wife Beating Justification Male,59
-"Uzbekistan x,y",Wife Beating Justification Female,70
+Uzbekistan,Child Marriage <18,7
+Uzbekistan,Birth Registration Total,100
+Uzbekistan,Wife Beating Justification Male,59
+Uzbekistan,Wife Beating Justification Female,70
 Vanuatu,Child marriage <15,9
 Vanuatu,Child Marriage <18,27
 Vanuatu,Birth Registration Total,43
 Vanuatu,Wife Beating Justification Female,60
 Vanuatu,Violent Discipline Total,78
-Republic of),Child Labour Total,8
-Republic of),Child Labour Male,9
-Republic of),Child Labour Female,6
-Republic of),Birth Registration Total,81
+Venezuela (Bolivarian Republic of),Child Labour Total,8
+Venezuela (Bolivarian Republic of),Child Labour Male,9
+Venezuela (Bolivarian Republic of),Child Labour Female,6
+Venezuela (Bolivarian Republic of),Birth Registration Total,81
 Viet Nam,Child Labour Total,7
 Viet Nam,Child Labour Male,7
 Viet Nam,Child Labour Female,7
@@ -1044,18 +1044,18 @@ Viet Nam,Wife Beating Justification Female,36
 Viet Nam,Violent Discipline Total,74
 Viet Nam,Violent Discipline Male,76
 Viet Nam,Violent Discipline Female,71
-"Yemen x,y",Child Labour Total,23
-"Yemen x,y",Child Labour Male,21
-"Yemen x,y",Child Labour Female,24
-"Yemen x,y",Child marriage <15,12
-"Yemen x,y",Child Marriage <18,32
-"Yemen x,y",Birth Registration Total,17
-"Yemen x,y",FGM Prevalence Women,17
-"Yemen x,y",FGM Prevalence Girls,15
-"Yemen x,y",FGM Support,41
-"Yemen x,y",Violent Discipline Total,95
-"Yemen x,y",Violent Discipline Male,95
-"Yemen x,y",Violent Discipline Female,95
+Yemen,Child Labour Total,23
+Yemen,Child Labour Male,21
+Yemen,Child Labour Female,24
+Yemen,Child marriage <15,12
+Yemen,Child Marriage <18,32
+Yemen,Birth Registration Total,17
+Yemen,FGM Prevalence Women,17
+Yemen,FGM Prevalence Girls,15
+Yemen,FGM Support,41
+Yemen,Violent Discipline Total,95
+Yemen,Violent Discipline Male,95
+Yemen,Violent Discipline Female,95
 Zambia,Child Labour Total,41
 Zambia,Child Labour Male,42
 Zambia,Child Labour Female,40
