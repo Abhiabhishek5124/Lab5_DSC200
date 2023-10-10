@@ -51,7 +51,7 @@ with (open("Table9.pdf", "rb") as pdf_ptr):
         if sum(isinstance(x, int) for x in inputList[i]) == 14:
             inputList2.append(inputList[i])
     # output list will hold what's actually outputted
-    outputList = []
+    outputList = [["CountryName", "CategoryName", "CategoryTotal"]]
     # iterate through the values representing countries
     for data in inputList2:
         # outputLine will hold a collapsed version of data from inputList2
