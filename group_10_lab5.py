@@ -88,6 +88,6 @@ fptr.close()
 # Open the CSV file "group10Lab5.csv" for reading.
 fptr2 = open("group10Lab5.csv", "r")
 # Print the number of rows in the CSV file (counting the number of lines).
-print(sum(1 for row in fptr2))
+print(sum(1 for row in fptr2)-1)
 # Close the CSV file.
 fptr2.close()
