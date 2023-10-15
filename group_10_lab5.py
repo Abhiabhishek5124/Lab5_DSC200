@@ -27,6 +27,7 @@ with (open("Table9.pdf", "rb") as pdf_ptr):
     pdf_ptr.close()
     # join the page contents (individual characters)
     page_content = "".join(page_content)
+
     # Remove the phrase TABLE 9
     page_content = page_content.replace("TABLE 9", "")
     # This joins the countries in the table where the name is across two lines
